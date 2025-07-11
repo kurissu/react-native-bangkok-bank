@@ -108,6 +108,7 @@ const styles = StyleSheet.create({
     borderRadius: 4,
   },
   item: {
+    width: "100%",
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
